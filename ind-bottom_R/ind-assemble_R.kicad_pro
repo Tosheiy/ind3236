@@ -424,7 +424,7 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "ind-assemble_R.cad",
       "idf": "",
       "netlist": "ind-assemble_Rnet.net",
       "specctra_dsn": "",
