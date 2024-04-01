@@ -1,2 +1,3 @@
-# ind3236
-own making detouuch keyboard PCB and plate. 32key and 36key
+# ind3236（自作キーボード）
+右手３２キー、左手３６キーの分離型キーボードです。
+基盤＋簡易ケース（パンケーキ型）
